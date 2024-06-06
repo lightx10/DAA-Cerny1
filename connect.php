@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
-$username = "userdbaa";
-$password = "Databaza1";
+$username = "userdb";
+$password = "databaza";
 $dbname = "northwind"; 
 
 
